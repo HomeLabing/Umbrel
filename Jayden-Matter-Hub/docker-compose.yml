@@ -4,8 +4,8 @@ services:
     restart: unless-stopped
     network_mode: host
     environment: # more options can be found in the configuration section
-      - HAMH_HOME_ASSISTANT_URL=http://192.168.178.123:8123/
-      - HAMH_HOME_ASSISTANT_ACCESS_TOKEN=ey...ZI
+      - HAMH_HOME_ASSISTANT_URL=http://192.168.68.65:8123/
+      - HAMH_HOME_ASSISTANT_ACCESS_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkZmVhOGI1NDU4ZWU0YTE5OGZhNGExOTFlZGM1NWNkMyIsImlhdCI6MTc4NzYxNzQzNywiZXhwIjoyMTAyOTc3NDM3fQ.cIk8h2hAFCpRQcy1gtbqAzMcAMAI2Cgj5fw0n6JMjBU
       - HAMH_LOG_LEVEL=info
       - HAMH_HTTP_PORT=8482
     volumes:
