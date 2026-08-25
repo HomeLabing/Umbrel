@@ -1,20 +1,20 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: Jayden-Matter-Hub
+name: Matter Hub
+tagline: Matter Hub
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 
 description: >-
   Add your app's description here.
 
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: Riddix
+website: https://riddix.github.io/
+submitter: Jayden
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
