@@ -1,25 +1,29 @@
-manifestVersion: "1"
-id: homelabing-jayden-matter-hub
+manifestVersion: 1
+id: Jayden-Matter-Hub
 name: Matter Hub
-tagline: Local Matter bridge for smart home devices
+tagline: Matter Hub
 icon: https://svgur.com/i/mvA.svg
-category: automation
+category: Development
 version: "1.0.0"
 port: 8481
 description: >-
-  Matter Hub integration for Umbrel.
+  Add your app's description here.
+
+
+  You can also add newlines!
+
 developer: Riddix
 website: https://riddix.github.io/
 submitter: Jayden
-submission: https://github.com/HomeLabing/Umbrel
-repo: https://github.com/HomeLabing/Umbrel
-support: https://github.com/HomeLabing/Umbrel/issues
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Initial release of Matter Hub.
+  Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
 defaultUsername: ""
