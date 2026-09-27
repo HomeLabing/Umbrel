@@ -1,5 +1,5 @@
 services:
-  matter-hub:
+  app:
     image: ghcr.io/riddix/home-assistant-matter-hub:latest
     restart: unless-stopped
     network_mode: host
